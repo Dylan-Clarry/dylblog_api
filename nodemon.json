@@ -1,0 +1,9 @@
+{
+	"env": {
+		"USER": "me",
+		"PASSWORD": "password",
+		"HOST": "localhost",
+		"DATABASE": "cctest_api",
+		"DBPORT": "5432"
+	}
+}
